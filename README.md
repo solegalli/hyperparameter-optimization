@@ -7,11 +7,11 @@
 
 Published May, 2021
 
-[<img src="./logo.png" width="248">](https://www.udemy.com/course/hyperparameter-tuning-for-machine-learning)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
+[<img src="./logo.png" width="248">](https://www.udemy.com/course/hyperparameter-optimization-for-machine-learning/?referralCode=2A38B3864C92AF5269BC)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
 
 ## Links
 
-- [Online Course](https://www.udemy.com/course/hyperparameter-tuning-for-machine-learning)
+- [Online Course](https://www.udemy.com/course/hyperparameter-optimization-for-machine-learning/?referralCode=2A38B3864C92AF5269BC)
 
 
 ## Table of Contents
