@@ -15,5 +15,6 @@ tensorflow==2.4.1
 # for hyperparameter optimization
 hyperopt==0.2.5
 scikit-optimize==0.8.1
+optuna==2.7.0
 
 
