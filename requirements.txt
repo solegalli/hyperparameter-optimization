@@ -10,7 +10,7 @@ xgboost==1.3.3
 
 # for neural networks
 Keras==2.4.3
-tensorflow==2.5.0
+tensorflow==2.5.1
 
 # for hyperparameter optimization
 hyperopt==0.2.5
