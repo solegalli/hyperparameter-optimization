@@ -5,5 +5,8 @@
 *.csv
 *.zip
 
+# models
+*.h5
+
 # folders
 
