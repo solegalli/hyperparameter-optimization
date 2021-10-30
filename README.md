@@ -30,12 +30,19 @@ Published May, 2021
 	2. with Random Forests (SMAC) and GBMs
 	3. with Parzen windows (Tree-structured Parzen Estimators or TPE)
 
-4. **Other SMBOs**
-	1. Population Based Optimization
+4. **Multi-fidelity Optimization**
+	1. Successive Halving
 	2. Hyperband
-	3. Successive Halving
+	3. BOHB
 
-5. **Python tools**
+5. **Other Search Algorthms**
+	1. Simulated Annealing
+	2. Population Based Optimization
+
+6. **Gentetic Algorithms**
+	1. CMA-ES	
+
+7. **Python tools**
 	1. Scikit-learn
 	2. Scikit-optimize
 	3. Hyperopt
