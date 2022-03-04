@@ -6,7 +6,7 @@
 
 Published May, 2021
 
-[<img src="./logo.png" width="248">]https://www.courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
+[<img src="./logo.png" width="248">](https://www.courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
 
 ## Links
 
