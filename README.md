@@ -4,13 +4,15 @@
 
 ## Hyperparameter tuning for Machine Learning - Code Repository
 
-Published May, 2021
+[<img src="./course-banner.png">](https://www.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
 
-[<img src="./logo.png" width="248">](https://www.courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
+**Launched**: May, 2021
+
+[<img src="./logo.png" width="248">](https://www.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
 
 ## Links
 
-- [Online Course](https://www.courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
+- [Online Course](https://www.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
 
 
 ## Table of Contents
@@ -50,3 +52,7 @@ Published May, 2021
 	5. Keras Tuner
 	6. SMAC
 	7. Others
+
+## Links
+
+- [Online Course](https://www.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
