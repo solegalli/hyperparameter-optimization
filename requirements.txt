@@ -13,7 +13,7 @@ Keras==2.5.0
 tensorflow==2.17.0
 
 # for hyperparameter optimization
-hyperopt==-0.2.7
+hyperopt==0.2.7
 scikit-optimize==0.10.2
 optuna==4.0.0
 
