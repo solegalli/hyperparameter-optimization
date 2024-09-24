@@ -17,4 +17,5 @@ hyperopt==-0.2.7
 scikit-optimize==0.10.2
 optuna==4.0.0
 
-
+# required by optuna
+cmaes==0.11.1
